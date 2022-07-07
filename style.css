@@ -1,0 +1,237 @@
+
+.topvar {
+  height: 300px;
+  background-image: url(images/donation1.jpg);
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  background-size: 100%;
+  height: 300px;
+  padding-top: 90px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: chocolate;
+  background-image: linear-gradient(lightsalmon,tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.todaysection {
+  margin-top: 60px;
+  text-align: center;
+}
+.takasection{
+  justify-content: center;
+  display: flex;
+  margin-top: 70px;
+  padding-bottom: 10px;
+}
+.taka1 {
+  height: 20px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: grey;
+  margin-right: 30px;
+  font-weight: 700;
+
+
+}
+.design {
+  height: 20px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  background-color: burlywood;
+  margin-right: 30px;
+  border: 1px solid palevioletred;
+  font-weight: 700;
+}
+.taka2 {
+  height: 20px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: gray;
+  margin-right: 30px;
+  font-weight: 700;
+
+}
+
+.taka3 {
+  height: 20px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color:gray;
+  margin-right: 30px;
+  font-weight: 700;
+
+}
+
+.taka4 {
+  height: 20px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: grey;
+  margin-right: 30px;
+  font-weight: 700;
+
+}
+
+.taka5 {
+  height: 20px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color:gray;
+  margin-right: 30px;
+  font-weight: 700;
+
+
+}
+.other-option {
+  padding-top: 50px;
+  margin-left: 420px;
+}
+
+.input-class {
+  text-align: center;
+  width: 50%;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  height: 35px;
+}
+
+.div-6 {
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+.btn {
+  text-align: center;
+}
+.Basic-needs{
+  text-align: center;
+  margin-bottom: 90px;
+
+}
+.food-donate {
+  text-align: center;
+}
+
+.food-family {
+  margin-left: 30px;
+  background-color: palevioletred;
+  color: black;
+  width: 30%;
+  margin-right: 30px;
+  height: 300px;
+  padding-top: 60px;
+  float: left;
+}
+
+.shelter-family {
+  margin-right: 30px;
+  background-color: skyblue;
+  color: black;
+  width: 30%;
+  height: 300px;
+  padding-top: 60px;
+  float: left;
+
+}
+
+.education-child {
+  margin-right: 30px;
+  background-color: mediumslateblue;
+  color: black;
+  width: 30%;
+  margin-right: 30px;
+  height: 300px;
+  padding-top: 60px;
+  float: right;
+}
+.needs{
+  text-align: left;
+  padding-left: 60px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  margin-top: 60px;
+  margin-bottom: 150px;
+} 
+.half-width img {
+  width: 90% ;
+  padding-top: 1%;
+}
+.half-width h1 {
+  font-size: 24px;
+}
+.input-class1 {
+  text-align: left;
+  height: 30px;
+  width: 20%;
+  border-bottom-left-radius: 7px;
+  border-top-left-radius: 7px;
+  padding-left: 20px;
+}
+
+.input-class2 {
+  height: 36px;
+  margin-left: -5px;
+  width: 120px;
+  background-image: linear-gradient(cyan,yellow);
+  color: white;
+  font-weight: 700;
+  border-bottom-right-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.updates {
+  text-align: center;
+  padding-top: 40px;
+  padding: 100px;
+}
+
+.updates1 {
+  padding-top: 100px;
+  margin-top: 80px;
+  text-align: center;
+  padding-left: 80px;
+  padding-right: 400px;
+}
+
+.updates2 {
+  padding-top: 50px;
+  background-color: darkgrey;
+  height: 90px;
+}
+.footer {
+  height: 160px;
+  background: black;
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+  margin-top: 80px;
+}
+.footer h1 {
+  font-size: 24px;
+}
+
+
+
+
+
